@@ -9,7 +9,7 @@
 </div>
 
 个人收集并适配Github Actions的各类签到大杂烩
-## 不要fork了 ⭐️star就行 #
+## 不要fork了 ⭐️star就 行 #
 
 [点这里加TG群](https://t.me/+bCXtiD4YI1ExNjE1) 
 
